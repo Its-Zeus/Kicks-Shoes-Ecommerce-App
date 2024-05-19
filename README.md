@@ -1,44 +1,68 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--config-env=<name>=<envvar>] <command> [<args>]
+<h1 align="center">Ecommerce Store Next.js & Strapi</h1>
+<h4 align="center">Full-stack E-commerce Website</h4>
+<p align="center">
+    <a href="https://vercel.com/">
+        <img src="https://img.shields.io/badge/Vercel-Deployed-green?logo=vercel&logoColor=black&labelColor=white" />
+    </a>
+    <a href="https://nextjs.org/">
+        <img src="https://img.shields.io/badge/Next.js-Built-blue?logo=next.js&logoColor=black&labelColor=white" />
+    </a>   
+    <a href="https://strapi.io/">
+        <img src="https://img.shields.io/badge/Strapi-Built-blueviolet?logo=strapi&logoColor=white&labelColor=white" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/TypeScript-Built-blue?logo=typescript&logoColor=white&labelColor=white" />
+    </a>   
+    <a href="https://tailwindcss.com/">
+        <img src="https://img.shields.io/badge/Tailwind CSS-Built-38B2AC?logo=tailwind-css&logoColor=white&labelColor=white" />
+    </a>           
+    <p align="center">⭐️ Star this project ⭐️</p>
+</p>
+<img title="Preview" src="https://github.com/Its-Zeus/YoutubeDownloader-Nextjs/assets/101791373/123162b2-1d9f-4983-8b3e-96afabcdbbb4" width="300" />
+<img title="Preview" src="https://github.com/Its-Zeus/YoutubeDownloader-Nextjs/assets/101791373/b8121a86-7152-4c90-b807-6c90976fbd88" width="300" />
+<img title="Preview" src="https://github.com/Its-Zeus/YoutubeDownloader-Nextjs/assets/101791373/22cc35ca-dcd4-4a20-9521-b9d8996ead9e" width="300" />
 
-These are common Git commands used in various situations:
+This is a full-stack e-commerce website built with Next.js, Strapi, TypeScript, and Tailwind CSS.
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+## Features
+- ✅ Dynamic categories, reviews and products fetched from strapi API.
+- ✅ Filters using Color, Size, Price ...
+- ✅ Clerk Authentication integrated.
+- ✅ Responsive Pagination.
+- ✅ Stripe payments integrated.
+- ✅ Easy Backend CMS for managing products, categories, reviews ...
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+## Getting Started
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+1. **Back-End**
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+   Install dependencies:
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
+   ```bash
+   cd backend
+   yarn install
+   # or
+   npm install
+   ```
+   
+   Run developer mode :
+   
+   ```bash
+   npm run develop
+   ```
+3. **Front-End**
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+   First, install dependencies for both frontend and backend:
+
+   ```bash
+   cd frontend
+   yarn install
+   # or
+   npm install
+   ```
+   
+   Run developer mode :
+   
+   ```bash
+   npm run dev
+   ```

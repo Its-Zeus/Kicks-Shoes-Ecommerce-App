@@ -1,9 +1,6 @@
 <h1 align="center">Ecommerce Store Next.js & Strapi</h1>
 <h4 align="center">Full-stack E-commerce Website</h4>
 <p align="center">
-    <a href="https://vercel.com/">
-        <img src="https://img.shields.io/badge/Vercel-Deployed-green?logo=vercel&logoColor=black&labelColor=white" />
-    </a>
     <a href="https://nextjs.org/">
         <img src="https://img.shields.io/badge/Next.js-Built-blue?logo=next.js&logoColor=black&labelColor=white" />
     </a>   

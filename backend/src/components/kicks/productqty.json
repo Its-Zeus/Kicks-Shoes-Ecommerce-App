@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_kicks_productqties",
+  "info": {
+    "displayName": "productqty",
+    "icon": "shoppingCart",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "productid": {
+      "type": "integer"
+    },
+    "qty": {
+      "type": "integer"
+    },
+    "size": {
+      "type": "string"
+    }
+  }
+}

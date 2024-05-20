@@ -5,13 +5,13 @@
         <img src="https://img.shields.io/badge/Next.js-Built-blue?logo=next.js&logoColor=black&labelColor=white" />
     </a>   
     <a href="https://strapi.io/">
-        <img src="https://img.shields.io/badge/Strapi-Built-blueviolet?logo=strapi&logoColor=white&labelColor=white" />
+        <img src="https://img.shields.io/badge/Strapi-Built-blueviolet?logo=strapi&logoColor=purple&labelColor=white" />
     </a>
     <a href="https://www.typescriptlang.org/">
-        <img src="https://img.shields.io/badge/TypeScript-Built-blue?logo=typescript&logoColor=white&labelColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-Built-blue?logo=typescript&logoColor=blue&labelColor=white" />
     </a>   
     <a href="https://tailwindcss.com/">
-        <img src="https://img.shields.io/badge/Tailwind CSS-Built-38B2AC?logo=tailwind-css&logoColor=white&labelColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind CSS-Built-38B2AC?logo=tailwind-css&logoColor=blue&labelColor=white" />
     </a>           
     <p align="center">⭐️ Star this project ⭐️</p>
 </p>
